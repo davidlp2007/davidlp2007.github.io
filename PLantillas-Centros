@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acciones Solidarias - [Nombre del Centro]</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        
+        <h1>[Nombre del Centro (Sin La Salle)]: Acciones</h1>
+        <nav>
+            <a href="index.html" class="btn-back">← Volver a Centros</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="grid-acciones">
+            <article class="card">
+                <img src="[Imagen de la accion]" alt="Imagen Accion">
+                <div class="card-content">
+                    <h2>[Nombre de la accion]</h2>
+                    <a href="[Archivo .html de detalles de la accion]" class="btn">Saber más</a>
+            </article>
+            
+        </section>
+    </main>
+</body>
+</html>
